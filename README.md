@@ -8,9 +8,10 @@
 pip install -r requirements.txt
 ``` 
 Чтобы пользоваться скрипотом Вам понадобится токен сгенерированный в сервисе https://app.bitly.com. 
-Установите переменную среды BITLY_TOKEN командой(например для Unix систем):
+Задайте BITLY_TOKEN в файле .env
+Например:
 ```
-export BITLY_TOKEN='Ваш токен'
+BITLY_TOKEN=bebc2fcb8bfe1defd43d654d1930c06f48fbbe67
 ```
 Запустите скрипт командой:
 ```
