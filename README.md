@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ``` 
 Чтобы пользоваться скрипотом Вам понадобится токен сгенерированный в сервисе https://app.bitly.com. 
 Задайте BITLY_TOKEN в файле .env
+
 Например:
 ```
 BITLY_TOKEN=bebc2fcb8bfe1defd43d654d1930c06f48fbbe67
